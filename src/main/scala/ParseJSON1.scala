@@ -2,7 +2,7 @@
  * Created by kduraj on 6/11/15.
  */
 
-class ParseJSON() {
+class ParseJSON1() {
 
   class Person(var name: String, var age: Double, var lovesScala: Boolean)
 //  var name: String = ""
