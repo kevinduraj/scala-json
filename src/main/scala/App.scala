@@ -8,11 +8,11 @@ object App {
 
     /*-------------------------------------*/
     println("Parse Person JSON ... ")
-    val person = new Person
+    val person = new ParseJSON
     person.readJson
     /*-------------------------------------*/
-    val getUrl = new GetURL
-    getUrl.crawl("http://nootrino.com")
+//    val getUrl = new GetURL
+//    getUrl.crawl("http://nootrino.com")
     /*-------------------------------------*/
   }
 
