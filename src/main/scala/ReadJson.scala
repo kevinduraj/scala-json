@@ -12,7 +12,7 @@ object ReadJson {
     person.readJson()
     /*-------------------------------------*/
 
-    
+
 
   }
 
